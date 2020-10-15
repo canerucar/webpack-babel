@@ -5,7 +5,20 @@
 <code>Download the project to your local </code> <br>
 <code> Open with code editor or IDE </code> <br>
 <code> index.html > open live-server </code>
-<br><br><br>
+<br>
+<hr>
+
+#### which loaders were used?
+
+<code> npm init —y </code> <br>
+<code> npm install webpack —save-dev </code> <br>
+<code> npm install webpack-cli —save-dev </code> <br>
+<code> npm install webpack-dev-server —save-dev </code> <br>
+<code> npm install html-webpack-plugin —save dev </code> <br>
+<code> npm install --save-dev babel-loader @babel/core </code> <br>
+<code> npm install babel-polyfill —save-dev </code> <br>
+<br>
+
 <hr>
 
 MIT License
